@@ -1,3 +1,6 @@
 theme: jekyll-theme-midnight
-plugins:
-- jekyll-sitemap
+pages:
+ - Home: landingPage.md
+  - Modules:
+    - Configuration: config.md
+    - TheDivision: theDivision.md
