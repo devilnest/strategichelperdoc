@@ -1,6 +1,6 @@
 
 # Moduł konfiguracji
-## perifx modułu: config
+### skrót modułu: config
 
 Moduł zawiera szereg poleceń służących do konfiguracji mechanizmów zawarych w bocie do ich prawidłowego funkcjonowania.
 
