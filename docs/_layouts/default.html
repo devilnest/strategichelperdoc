@@ -21,7 +21,7 @@
       <div id="header">
         <nav>
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-           {% for item in site.data.navigation.toc %}
+           {% for item in site.data.menu.toc %}
             <h3>{{ item.title }}</h3>
             <ul>
               {% for entry in item.subfolderitems %}
