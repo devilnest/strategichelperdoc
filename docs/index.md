@@ -1,37 +1,21 @@
 ## Witamy w dokumentacji bota - StrategicHelper
 
-You can use the [editor on GitHub](https://github.com/devilnest/strategichelperdoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Znajdziesz tutaj przypdatne informację na temat tegoL
+1. Jak skonfigurować bota na swoim serwerze
+2. Jakie dane przechowuje bot
+3. Jak używać poprawnie komend dostępnych dla bota
+4. Ogólne informacje o bocie
+5. Informacje o autorze
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Gdzie znajdę działającego bota?
 
-### Markdown
+Bot obecnie działa na serwerze Discord zamkniętej grupy facebookowej [Tom Clancy's The Division 2 PL](http://thedivisionpolska.pl) i jest tworzony na jej wyłączność (w chwili obecnej ;-) )
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ogólne informacje o bocie
 
-```markdown
-Syntax highlighted code block
+Cały zamysł bota, który towarzyszył przy jego tworzeniu to - pomóc użytkownikom zgrupować się i grać razem, dlatego `Corem` bota jest tworzenie wydarzeń. 
+Z czasem bot jednak został rozbudowany (i nadal jest rozbudowywany) o kolejne moduły wykonujące poszczególne czynności np. zarządzanie klanem czy też opcje moderatorskie
 
-# Header 1
-## Header 2
-### Header 3
+### Informacje o autorze
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devilnest/strategichelperdoc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Programista, gracz. Uwielbiam tryb Coop i gry planszowe!
