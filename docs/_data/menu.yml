@@ -3,4 +3,4 @@ toc:
   - title: Moduly
     subfolderitems:
       - page: Konfiguracja
-        url: strategichelperdoc/commands/Config
+        url: /commands/Config
