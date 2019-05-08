@@ -1,6 +1,6 @@
 docs_list_titile: Navigation
 toc:
-  - title Moduły
+  - title: Moduły
   subfolderitems:
   - page: Konfiguracja
     url: /commands/Config.md
