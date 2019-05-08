@@ -3,4 +3,4 @@ toc:
   - title: Moduly
     subfolderitems:
       - page: Konfiguracja
-        url: /commands/Config
+        url: ./commands/Config
