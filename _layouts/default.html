@@ -23,14 +23,13 @@
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub2</a></li>
            {% for item in site.data.menu.toc %}
-           {% for item in site.data.menu.toc %}
             <h3>{{ item.title }}</h3>
             <ul>
               {% for entry in item.subfolderitems %}
                 <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
              {% endfor %}
-          </ul>
-        {% endfor %}
+            </ul>
+          {% endfor %}
         </nav>
       </div><!-- end header -->
 
