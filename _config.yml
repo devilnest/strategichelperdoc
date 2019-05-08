@@ -1,6 +1,7 @@
 theme: jekyll-theme-midnight
+layout_dir: _layouts
 pages:
- - Home: landingPage.md
+ - Home: config.md
   - Modules:
     - Configuration: config.md
     - TheDivision: theDivision.md
