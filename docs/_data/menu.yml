@@ -4,3 +4,7 @@ toc:
     subfolderitems:
       - page: Konfiguracja
         url: https://devilnest.github.io/strategichelperdoc/commands/Config
+      - page: Moduły
+        url: https://devilnest.github.io/strategichelperdoc/commands/Modules
+      - page: Misc
+        url: https://devilnest.github.io/strategichelperdoc/commands/misc
