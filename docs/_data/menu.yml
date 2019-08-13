@@ -4,7 +4,15 @@ toc:
     subfolderitems:
       - page: Konfiguracja
         url: https://devilnest.github.io/strategichelperdoc/commands/Config
-      - page: Moduły
-        url: https://devilnest.github.io/strategichelperdoc/commands/Modules
-      - page: Misc
-        url: https://devilnest.github.io/strategichelperdoc/commands/misc
+      - page: The Division
+        url: https://devilnest.github.io/strategichelperdoc/commands/TheDivision
+      - page: The Division 2
+        url: https://devilnest.github.io/strategichelperdoc/commands/TheDivision2
+      - page: Klany
+        url: https://devilnest.github.io/strategichelperdoc/commands/Clan
+      - page: Stan bota
+        url: https://devilnest.github.io/strategichelperdoc/commands/Health
+      - page: Wydarzenia dla różnych gier
+        url: https://devilnest.github.io/strategichelperdoc/commands/Custom
+      - page: Moderator
+        url: https://devilnest.github.io/strategichelperdoc/commands/Moderator
