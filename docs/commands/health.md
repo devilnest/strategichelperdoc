@@ -1,4 +1,3 @@
-
 # Moduł "zdrowia"
 ### skrót modułu: health
 

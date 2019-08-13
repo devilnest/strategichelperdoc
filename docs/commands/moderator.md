@@ -1,4 +1,3 @@
-
 # Moduł moderacji
 ### skrót modułu: mod
 

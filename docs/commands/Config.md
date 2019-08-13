@@ -1,4 +1,3 @@
-
 # Moduł konfiguracji
 ### skrót modułu: config
 

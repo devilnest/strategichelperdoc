@@ -16,3 +16,5 @@ toc:
         url: https://devilnest.github.io/strategichelperdoc/commands/custom
       - page: Moderator
         url: https://devilnest.github.io/strategichelperdoc/commands/moderator
+      - page: Statystyki
+        url: https://devilnest.github.io/strategichelperdoc/commands/stats
