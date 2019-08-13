@@ -11,8 +11,7 @@ Znajdziesz tutaj przypdatne informację na temat tegoL
 
 Bot obecnie działa na serwerze Discord zamkniętej grupy facebookowej [Tom Clancy's The Division 2 PL](http://thedivisionpolska.pl) i jest tworzony na jej wyłączność (w chwili obecnej ;-) )
 
-<iframe src="https://discordapp.com/widget?id=251069424272932874&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-
+[](https://discordapp.com/widget?id=251069424272932874&theme=dark ':include :type=iframe width="350" height="500"')
 ### Ogólne informacje o bocie
 
 Cały zamysł bota, który towarzyszył przy jego tworzeniu to - pomóc użytkownikom zgrupować się i grać razem, dlatego `Corem` bota jest tworzenie wydarzeń. 
